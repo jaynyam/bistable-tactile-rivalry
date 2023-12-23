@@ -1,0 +1,9 @@
+1. Change Path in every script to the corresponding ones
+2. Run Batch Script --> fMRI data processing
+3. You can also run each script individually: 
+  1) Realignment
+  2) Relignment Localizer
+  3) Coregistration
+  4) Segmentation
+  5) Normalization_functional
+  6) Smoothing
